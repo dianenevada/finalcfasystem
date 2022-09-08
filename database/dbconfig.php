@@ -1,9 +1,9 @@
 <?php
 
-$server_name = "localhost";
-$db_username ="root";
-$db_password = "";
-$db_name = "db_cfaax";
+$server_name = "MyClearDBMaster";
+$db_username ="bd69a3fabc0cd6";
+$db_password = "2a71728d ";
+$db_name = "heroku_d66c949e1e66b1b";
 
 $connection = mysqli_connect($server_name,$db_username,$db_password);
 $dbconfig = mysqli_select_db($connection,$db_name);

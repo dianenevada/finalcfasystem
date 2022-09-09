@@ -1,0 +1,10 @@
+{
+    "name": "cfa",
+    "type": "project",
+    "description": "vsla",
+    "keywords": ["model, php"],
+    "license": "",
+    "require": {
+        "php": "^7.3"
+    }
+}
